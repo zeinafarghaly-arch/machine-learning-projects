@@ -1,24 +1,28 @@
-Projects
+# Machine Learning Projects
 
-Housing Price Prediction (Python):
-Built regression models (Linear, Polynomial, KNN) to predict housing prices.
+This repository contains my machine learning and deep learning projects developed using Python, Scikit-learn, and TensorFlow.
 
-Applied log transformation to normalize skewed target variables.
+## Projects
 
-Used Ridge Regression to reduce overfitting and improved R² from 0.72 → 0.885.
+- 🏡 **Housing Price Prediction** – Regression models for predicting house prices.
+- 🚢 **Titanic Survival Prediction** – Binary classification using traditional machine learning algorithms.
+- 🧠 **MNIST Digit Classification** – Neural network for handwritten digit recognition.
+- 👕 **Fashion MNIST Classification** – Deep learning model for clothing image classification.
 
-Split dataset into training/testing sets (80/20) and evaluated using MAE, MSE, and R².
+## Technologies
 
-Technologies: Python, pandas, scikit-learn, matplotlib, seaborn
+- Python
+- Scikit-learn
+- TensorFlow & Keras
+- Pandas
+- NumPy
+- Matplotlib
 
+## Portfolio
 
-Titanic Survival Prediction (Machine Learning Classification):
-Built classification models to predict passenger survival.
+🌐 https://portfolio-tan-psi-79.vercel.app/
 
-Preprocessed data: handled missing values, encoded categorical variables, and selected relevant features.
+## Connect
 
-Conducted exploratory data analysis (EDA) to identify survival factors.
-
-Evaluated models using Accuracy, Precision, Recall, and Confusion Matrix.
-
-Technologies: Python, pandas, scikit-learn, seaborn, matplotlib
+- **LinkedIn:** https://www.linkedin.com/in/zeina-farghaly-89b5382a8/
+- **GitHub:** https://github.com/zeinafarghaly-arch
